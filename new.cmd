@@ -1,0 +1,27 @@
+echo off
+cls
+ping www.arnavjoshi.tk
+ping sites.google.com
+
+cls
+echo Loading...
+echo Loading 10% pkts
+echo Loading 20% pkts
+echo Loading 40% pkts
+echo Loading 50% pkts
+echo Loading 80% pkts
+echo Loading 98% pkts
+echo Loading 99% pkts
+echo Loading 100% pkts
+pause 
+cls
+
+ping www.google.com
+
+pause 
+
+
+
+
+
+ 
